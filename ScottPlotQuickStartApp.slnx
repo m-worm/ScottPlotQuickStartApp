@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="ScottPlotQuickStartApp.Browser/ScottPlotQuickStartApp.Browser.csproj" />
+  <Project Path="ScottPlotQuickStartApp.Desktop/ScottPlotQuickStartApp.Desktop.csproj" />
+  <Project Path="ScottPlotQuickStartApp/ScottPlotQuickStartApp.csproj" />
+</Solution>
